@@ -1,0 +1,62 @@
+Old Codename; New Codename
+All Phases\Enablement/Training of Stakeholders/PM Students;All Phases\Enablement/Training of Stakeholders
+All Phases\Lack of process / domain knowledge;All Phases\Lack of process / domain knowledge
+All Phases\Communication/collaboration with Stakeholders;All Phases\Communication/collaboration with Stakeholders
+All Phases\Communication/collaboration with Stakeholders\Stakeholder expectations/Understanding\Understanding of Stakeholders;All Phases\Communication/collaboration with Stakeholders
+All Phases\Communication/collaboration with Stakeholders\Stakeholder expectations/Understanding;All Phases\Communication/collaboration with Stakeholders
+All Phases\Method\Missing domain-specific support/methods;Methodological Support
+All Phases\Method\Missing method to collaborate in Teams and Report Value;Methodological Support
+All Phases\Method\Methodological integration of Process Mining in BPM;Methodological Support
+Mining & Analysis\Access to additional information \Access to Stakeholders;Mining & Analysis\Access to additional information
+Mining & Analysis\Access to additional information \Access to process documentation;Mining & Analysis\Access to additional information
+Data Collection\Collecting Data / Data Extraction;Collecting Data / Data Extraction
+Data Collection\Collecting Data / Data Extraction\selecting a suitable subset of data;Collecting Data / Data Extraction
+Data Collection\Data;Methodological Support
+Data Collection\Granularity of the timestamp: Granularity of the timestamp
+Data Collection\Having enough data;Having enough data
+Data Collection\Lack of knowledge regarding source system;Lack of knowledge regarding source system
+Data Collection\Missing access to the raw data;Missing access to the raw data
+Data Collection\Missing access to the raw data\Data Privacy / Legal limitations to access data;Missing access to the raw data
+Data Collection\Missing knowledge of relational databases;Missing knowledge of relational databases
+Data Preprocessing\Data Quality;Data Quality
+Data Preprocessing\Data Transformation;Data Transformation
+Data Preprocessing\Data Transformation\Adding activities to the event log;Data Transformation
+Data Preprocessing\Data Transformation\Adding attributes to the event log / data transformation;Data Transformation
+Data Preprocessing\Data Transformation\Finding correct level of aggregation (e.g. for activities);Data Transformation
+Data Preprocessing\Data Validation;Data Validation
+Data Preprocessing\Efficient processing of big amounts of data;Efficient processing of big amounts of data
+Data Preprocessing\Method to evaluate quality and perfom validation;Preprocessing methods for validation
+Data Preprocessing\Mismatch of data recording and business level reason;Mismatch of data recording and business level reason
+Data Preprocessing\Missing method to support data extraction & Preparation;Methodological Support
+Data Preprocessing\Understanding the Data;Understanding the Data
+Data Preprocessing\Understanding the Data\Understanding the attributes;Understanding the Data
+Data Preprocessing\Understanding the Data\Understanding the data / event log;Understanding the Data
+Data Preprocessing\Understanding the Data\Understanding the Data Structure;Understanding the Data
+Defining Research Question\Having a goal/purpose/guiding question  for the analysis;Defining Research Question
+Defining Research Question\General complexity of business processes;General complexity of business processes
+Defining Research Question\Application of Process Mining\Application as correct method for problem;Application of Process Mining
+Defining Research Question\Application of Process Mining\Application of the Tool;Application of Process Mining
+Defining Research Question\Understanding process mining & a process model in general;Understanding process mining & process model in general
+Defining Research Question\Formulation of question/requirements;Formulation of question/requirements
+Mining & Analysis\Access to additional information;Access to additional information
+Mining & Analysis\Combining Process Mining techniques;Combining Process Mining techniques
+Mining & Analysis\Combining Process Mining techniques\Challenges due to missing PM techniques;Combining Process Mining techniques
+Mining & Analysis\Combining Process Mining techniques\Combining Process Mining & ML to improve analysis;Combining Process Mining techniques
+Mining & Analysis\Cost-Effectiveness during the process discovery;Cost-Effectiveness during the process discovery
+Mining & Analysis\Getting lost in the analysis;Getting lost in the analysis
+Mining & Analysis\Interactability of PA with advanced algorithms;Interactability of PA with advanced algorithms
+Mining & Analysis\Lack of tool knowledge;Lack of tool knowledge
+Mining & Analysis\Limited / no insights out of root cause analysis;Limited / no insights out of root cause analysis
+Mining & Analysis\Limited or imperfect supported functions of the tool;Limited or imperfect supported functions of the tool
+Mining & Analysis\Low level of prior experience;Low level of prior experience
+Mining & Analysis\Misleading representation/Challenging usage of the Process Map;Misleading representation/Challenging usage of the Process Map
+Mining & Analysis\Missing method to support PM exploration;Methodological Support
+Mining & Analysis\Missing method to support PM exploration\Lack of guidance to approach an analysis;Methodological Support
+Mining & Analysis\Missing method to support PM exploration\Providing next analysis step - suggestion;Methodological Support
+Mining & Analysis\Missing method to support PM exploration\Finding a start and end point for the analysis;Methodological Support
+Mining & Analysis\Support in understanding the data model and aggregations;Methodological Support
+Stakeholder evaluation\Business / Use Case preparation and communication;Methodological Support
+Stakeholder evaluation\Difficulties in deviation of concrete actions;Difficulties in deviation of concrete actions
+Stakeholder evaluation\Drawing conclusions / Finding causality:Drawing conclusions / Finding causality
+Stakeholder evaluation\Identifying relevant patterns: Identifying relevant patterns
+Stakeholder evaluation\Missing method to support evaluation of PM results;Methodological Support
